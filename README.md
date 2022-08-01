@@ -17,4 +17,4 @@ Ao clicar nas setas < > , mudar de personagem ;<br>
 </ul>
 
 ## Segue o link do projeto :
-<a href="#">Projeto Pokemon</a>
+<a href="https://renatoanjo.github.io/Pokemon-Slider/">Projeto Pokemon</a>
